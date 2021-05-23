@@ -25,7 +25,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.marcus8448.mods.{modid}.ChangeYourGamemode"
+      "io.github.marcus8448.mods.${modid}.ChangeYourGamemode"
     ]
   },
 

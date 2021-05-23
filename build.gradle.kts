@@ -51,7 +51,7 @@ loom {
 
             vmArgs(listOf(
                     "-ea",
-                    "-javaagent:\"/{project.gradle.gradleUserHomeDir}/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/12c437eebf031967eaa7daad861e115932772cc7/sponge-mixin-0.9.2+mixin.0.8.2.jar\"",
+//                    "-javaagent:\"/{project.gradle.gradleUserHomeDir}/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/12c437eebf031967eaa7daad861e115932772cc7/sponge-mixin-0.9.2+mixin.0.8.2.jar\"",
                     "-server",
                     "-Xmx3G",
                     "-XX:+UseG1GC",
@@ -85,7 +85,7 @@ loom {
 
             vmArgs(listOf(
                     "-ea",
-                    "-javaagent:\"/{project.gradle.gradleUserHomeDir}/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/12c437eebf031967eaa7daad861e115932772cc7/sponge-mixin-0.9.2+mixin.0.8.2.jar\"",
+//                    "-javaagent:\"/{project.gradle.gradleUserHomeDir}/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/12c437eebf031967eaa7daad861e115932772cc7/sponge-mixin-0.9.2+mixin.0.8.2.jar\"",
                     "-server",
                     "-Xmx3G",
                     "-XX:+UseG1GC",
